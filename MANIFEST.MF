@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Html To Excel Plugin
+Bundle-SymbolicName: com.appian.htmltoexcel
+Bundle-Version: 1.0.0
+Bundle-ClassPath: .,lib/master-plugin.jar
+Import-Package: *

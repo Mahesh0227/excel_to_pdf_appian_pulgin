@@ -1,0 +1,10 @@
+<appian-plugin name="Excel To Pdf Convertion" key="com.appian.Exceltopdf">
+  <plugin-info>
+   <description>Smart service used to convert Html File to Excel File</description>
+   <vendor name="Tech Tammina" url="http://www.techtammina.com" />
+   <version>1.0.0</version>
+   <application-version min="6.1" />
+  </plugin-info>
+  <smart-service name="Excel To Pdf Convertion" key="ExcelToPdfConverter_en_US" class="com.appian.Exceltopdf.ExcelToPdfSmartService"/>
+</appian-plugin>
+ 
